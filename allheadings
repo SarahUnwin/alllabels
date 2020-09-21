@@ -1,0 +1,46 @@
+<div class="cobox" id="cob-info">
+  <img src="https://bit.ly/912objective" alt="" width="70" height="70" role="presentation" class="img-responsive atto_image_button_right">
+  <h3>Outline: What will we study?</h3>
+  <p></p>
+  <p><b><span>Headline of the lesson topic</span></b></p>
+  <p><span>Description of what will be explored in the lesson</span></p>
+  <h5>Learning outcomes</h5>
+  <p>By the end of this unit, you will be able to...</p>
+  <p></p>
+  <ul>
+    <li><span>Describe the key features of ...</span>
+    </li>
+    <li><span>Analyse and compare contrasting examples of ...</span>
+    </li>
+    <li><span>Produce an artifact...</span>
+    </li>
+  </ul>
+  <p></p>
+</div>
+<br>
+
+
+
+<div class="cobox" id="cob-inst">
+  <img src="https://bit.ly/912instructions" alt="" width="70" height="70" role="presentation" class="img-responsive atto_image_button_right">
+  <h3>Agenda: How will we study?</h3>
+  <p></p>
+  <p>What kind of activities and platforms will be used, where it will take place, key info for navigation of the lesson</p>
+  <p></p>
+  <h5><span>Link to Zoom Classroom</span></h5><p><span>insert zoom link here!</span></p>
+  <p></p>
+</div>
+<br>
+
+<p></p><div class="text-box">
+  <div class="text-box-heading" id="img-heading-information"><div id="img-heading-txt"><h3 style="color:white; border-left-style: none">Learning Activities</h3></div> <img src="https://bit.ly/912activity" alt="" width="70" height="70" role="presentation" class="img-responsive atto_image_button_right"> </div>
+  <div class="arrow-down" id="arrow-information"></div>
+  <p>List the lessons learning activities here</p></div><p></p>
+  
+  <div class="text-box">
+  <div class="text-box-heading" id="img-heading-signpost"><div id="img-heading-txt"><h3 style="color:white; border-left-style: none">Supplementary Resources</h3></div> <img src="https://bit.ly/912resource" alt="" width="70" height="70" role="presentation" class="img-responsive atto_image_button_right"> </div>
+  <div class="arrow-down" id="arrow-signpost"></div>
+  <p> A list of resources that you can use for revision and further study of this topic.</p></div>
+  
+  
+  
